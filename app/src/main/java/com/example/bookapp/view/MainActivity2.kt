@@ -11,8 +11,8 @@ import kotlinx.coroutines.GlobalScope
 import kotlinx.coroutines.launch
 import com.example.bookapp.Models.local.DatabaseHelperImpl
 import com.example.bookapp.Models.myclass.bookListByCategory.Book
-import uz.ilhomjon.bookapp.R
-import uz.ilhomjon.bookapp.databinding.ActivityMain2Binding
+import uz.example.bookapp.R
+import uz.example.bookapp.databinding.ActivityMain2Binding
 
 class MainActivity2 : AppCompatActivity() {
     lateinit var binding: ActivityMain2Binding

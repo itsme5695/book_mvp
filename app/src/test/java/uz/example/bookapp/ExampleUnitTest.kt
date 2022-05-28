@@ -1,4 +1,4 @@
-package uz.ilhomjon.bookapp
+package uz.example.bookapp
 
 import org.junit.Test
 

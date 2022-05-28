@@ -5,7 +5,7 @@ import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.squareup.picasso.Picasso
 import com.example.bookapp.Models.myclass.AllBook.Book
-import uz.ilhomjon.bookapp.databinding.TrendingItemBinding
+import uz.example.bookapp.databinding.TrendingItemBinding
 
 class TrendingBooksRVAdapter(var trendingBookList: List<Book>, val rvClick: RvClick) :
     RecyclerView.Adapter<TrendingBooksRVAdapter.TrendingVh>() {

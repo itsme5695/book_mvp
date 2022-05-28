@@ -4,7 +4,7 @@ import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.example.bookapp.Models.myclass.CategoryClass.Result
-import uz.ilhomjon.bookapp.databinding.CategoriesItemBinding
+import uz.example.bookapp.databinding.CategoriesItemBinding
 
 class CategoriesRVAdapter(var categoriesList: List<Result>, val rvClick: RvClick) :
     RecyclerView.Adapter<CategoriesRVAdapter.CategoriesVh>() {

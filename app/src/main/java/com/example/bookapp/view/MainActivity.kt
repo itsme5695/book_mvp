@@ -22,7 +22,7 @@ import com.example.bookapp.Models.myclass.bookListByCategory.Book
 import com.example.bookapp.Models.myclass.bookListByCategory.BookListByCategory
 import com.example.bookapp.Models.viewmodel.MyResource
 import com.example.bookapp.Models.viewmodel.MyStatus
-import uz.ilhomjon.bookapp.databinding.ActivityMainBinding
+import uz.example.bookapp.databinding.ActivityMainBinding
 import com.example.bookapp.presenter.Contacts
 import com.example.bookapp.presenter.Presenter
 import com.example.bookapp.view.Adapters.CategoryBooksAdapter
